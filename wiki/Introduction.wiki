@@ -1,11 +1,14 @@
-#summary One-sentence summary of this page.
+#summary AHP concepts implemented in the library.
+#labels Featured
 
-= AHP concepts implemented in the library =
+= Model =
 
 
-= Details =
+= Ratings =
 
 Add your content here.  Format your content with:
   * Text in *bold* or _italic_
   * Headings, paragraphs, and lists
   * Automatic links to other wiki pages
+
+= Consistency ratio =
